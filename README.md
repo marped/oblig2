@@ -1,2 +1,2 @@
 # oblig2
-Webutvikling - obligatoriske oppgave 2
+Webutvikling - obligatorisk oppgave 2
